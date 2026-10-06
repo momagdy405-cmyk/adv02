@@ -66,7 +66,5 @@ namespace adv02
             return l0;
         }
 
-
-
     }
 }
